@@ -1,0 +1,4 @@
+[Desktop Entry]
+Name=N-Central
+Exec=wine "/home/meme/.wine/drive_c/users/meme/AppData/Local/MSP Anywhere for N-central/Viewer/NCentralRDLdr.exe" -- %u
+Type=Application
