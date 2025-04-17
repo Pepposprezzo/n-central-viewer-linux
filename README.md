@@ -6,3 +6,4 @@ After editing the usernames add the files into ~/.local/share/applications<br />
 
 Before pasting blindly check if files may already exist.
 
+I may add an install script in the future.<br />
